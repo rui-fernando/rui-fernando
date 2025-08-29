@@ -1,10 +1,10 @@
 ## Olá! Sou Rui Fernando Filho. 👋
 
--🎓 Graduando em **Ciência da Computação** (5º período) pela Universidade Estadual da Paraíba (UEPB).
+-🎓 Graduando em **Ciência da Computação** (5º período) pela Universidade Estadual da Paraíba (UEPB)
 -🔍 Pesquisador e Desenvolvedor Bolsista no NUTES - UEPB
--💡 Apaixonado por cálculos matemáticos, buscando cada vez mais aprimorar conhecimentos de programação e suas respectivas linguagens e fascinado pelo aprendizado constante.  
--💻 Noções sobre **Python, C, Java e C# (Entity Framework)**.  
--📚 Atualmente explorando **Programação Orientada a Objetos** e projetos de software acadêmicos, tais sistemas de gerenciamento/controle.  
+-💡 Apaixonado por cálculos matemáticos, buscando cada vez mais aprimorar conhecimentos de programação e suas respectivas linguagens e fascinado pelo aprendizado constante
+-💻 Noções sobre **Python, C, Java e C# (Entity Framework)**
+-📚 Atualmente explorando **Programação Orientada a Objetos** e projetos de software acadêmicos, tais sistemas de gerenciamento/controle
 
 ## Sobre o Nutes - UEPB
 
